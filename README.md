@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Hi there! I'm Santiago Alzate Ramirez
+🎨 Passionate about creating clean and functional user interfaces.
+💻 Focused on Front-End Development, but also experienced in Back-End technologies.
+🚀 Always learning and building to improve my skills as a full-stack developer.
 
-<!--
-**Alzate08/Alzate08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Skills and Technologies
+🖥️ Front-End
+🌐 HTML5, CSS3, JavaScript
+⚛️ React.js
+🎨 TailwindCSS, Bootstrap
+⚙️ Back-End
+☕ Java with Spring Boot
+🐍 Python
+🐘 PHP
+🗄️ Databases
+📘 SQL (queries, joins, subqueries)
+🐘 PostgreSQL
+🔹 SQLite
+📁 Tools & Others
+🛠️ Git & GitHub
+🖌️ Figma (UI design interpretation)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ About Me
+I'm a self-taught developer, dedicated and motivated to grow professionally. I have hands-on experience with front-end and back-end technologies, and I enjoy turning ideas into real and functional applications.
